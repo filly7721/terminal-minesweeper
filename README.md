@@ -1,10 +1,10 @@
 Basic Minesweeper that runs in the terminal
-requires Linux or a Unix OS
+requires a Linux or Unix OS Machine
 
 # Controls
-WASD  -  Movement
-Q  -  Place flag
-E  -  Revaeal tile
+- WASD  -  Movement
+- Q  -  Place flag
+- E  -  Revaeal tile
 
 # TODO
 - change game settings form macros to variables
